@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Slavic-Dox
-- 👀 I’m interested in IT
+- 👀 I’m interested in Web development & ethical hacking
 - 📫 How to reach me: E-Mail: servervde@gmail.com
 
 <!---
